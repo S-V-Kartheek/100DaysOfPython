@@ -1,2 +1,10 @@
-# PythonBootcamp
-This repository contains my learning journey through Dr. Angela Yu’s Python Bootcamp. It includes daily coding exercises, mini-projects, and larger capstone projects that cover Python fundamentals, object-oriented programming, data structures, web development, automation, and more.
+# Python-projects Python Projects Collection
+Welcome to my Python Projects Repository! 🚀 Here, I have included all the Python projects I have worked on, ranging from beginner-level scripts to more advanced applications.
+
+📌 About
+This repository contains multiple Python projects, covering various domains such as automation, web development, data science, and more. Each project has its own folder with a README explaining its functionality.
+
+📂 Projects List
+🔹 Project 1 – Description
+🔹 Project 2 – Description
+🔹 Project 3 – Description
