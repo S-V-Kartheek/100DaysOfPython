@@ -1,4 +1,4 @@
-# Python-projects Python Projects Collection
+# Python-projects 
 Welcome to my Python Projects Repository! 🚀 Here, I have included all the Python projects I have worked on, ranging from beginner-level scripts to more advanced applications.
 
 📌 About
